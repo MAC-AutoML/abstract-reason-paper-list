@@ -1,6 +1,6 @@
 # Abstract Reasoning Benchmarks for LLMs
 
-**Abstract Reasoning Definition (Inspired by "Benchmarking Abstract and Reasoning Abilities Through A Theoretical Perspective")**
+**Abstract Reasoning Definition**
 
 In the context of Large Language Models (LLMs), abstract reasoning is defined as the ability to:
 
